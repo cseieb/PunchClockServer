@@ -1,9 +1,9 @@
-DATABASE_URL="postgres://fsweuigqfniciq:9fyr01TlBGJlupqzVLHe05oBfR@ec2-54-217-202-110.eu-west-1.compute.amazonaws.com:5432/da2irsiiugg0s7"
+DATABASE_URL="postgres://vkrcvlltfmmdpi:x8cUDyYoT-bTdSdv9TUqpNa1qn@ec2-54-217-202-109.eu-west-1.compute.amazonaws.com:5432/ddv24c7ja27k19"
 LANG=en_US.UTF-8
 RACK_ENV=development
 ZEROPUSH_DEV_TOKEN=xxx
 ZEROPUSH_PROD_TOKEN=xxx
-AUTH_USER=xxx
-AUTH_PASSWORD=xxx
+AUTH_USER=abc
+AUTH_PASSWORD=1234
 SLACK_TOKEN=902ebf2a934bda410b440c5343c74ddf
 SLACK_URL=https://mobisem.slack.com
