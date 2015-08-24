@@ -1,9 +1,9 @@
-DATABASE_URL="postgres://james@localhost:5432/punchclock"
+DATABASE_URL="postgres://fsweuigqfniciq:9fyr01TlBGJlupqzVLHe05oBfR@ec2-54-217-202-110.eu-west-1.compute.amazonaws.com:5432/da2irsiiugg0s7"
 LANG=en_US.UTF-8
 RACK_ENV=development
 ZEROPUSH_DEV_TOKEN=xxx
 ZEROPUSH_PROD_TOKEN=xxx
 AUTH_USER=xxx
 AUTH_PASSWORD=xxx
-SLACK_TOKEN=xxx
-SLACK_URL=https://xxx.slack.com
+SLACK_TOKEN=902ebf2a934bda410b440c5343c74ddf
+SLACK_URL=https://mobisem.slack.com
